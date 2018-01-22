@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 4562f95c11e72934ba2fcca64135af46
+timeCreated: 1492310158
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - music: {instanceID: 0}
+  - lane1: {fileID: 1408220321912110, guid: 336918d9420fe2d4a9268fcda2ae7637, type: 2}
+  - lane2: {fileID: 1596678971778242, guid: 566a4bb690adf6046bd928d2d7fbfc51, type: 2}
+  - lane3: {fileID: 1328618108841648, guid: ec0b726ea3e70b44b81290423e792469, type: 2}
+  - lane4: {fileID: 1297460848159708, guid: 08136e43e0ec0994792e5f31afaf64df, type: 2}
+  - lane5: {fileID: 1911091426348806, guid: cae3106fbf09a5c4bb73296f666d845f, type: 2}
+  - lane6: {fileID: 1681819058581578, guid: 0b6471b05fac6024fb5c1f17b71d1628, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
